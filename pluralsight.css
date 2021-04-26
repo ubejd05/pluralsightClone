@@ -145,9 +145,9 @@ body {
 
 /* Footer */
 #form footer {
-   position: absolute;
+   position: relative;
    /* align-self: flex-center; */
-   bottom: 30px;
+   /* bottom: 30px; */
    color: hsla(0,0%,100%,.65);
    line-height: 1.5;
 }
@@ -191,8 +191,10 @@ body {
    }
 
    #form footer {
+      padding: 10px;
       position: relative;
-      top: 50px;
+      top: 50px; 
+      /* display: none; */
    }
 
 }
