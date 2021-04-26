@@ -189,4 +189,10 @@ body {
    #images {
       display: none;
    }
+
+   #form footer {
+      position: relative;
+      top: 50px;
+   }
+
 }
