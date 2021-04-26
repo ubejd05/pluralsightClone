@@ -191,10 +191,10 @@ body {
    }
 
    #form footer {
-      /* padding: 10px; */
-      /* position: relative; */
-      /* top: 50px;  */
-      display: none;
+      padding: 10px;
+      position: relative;
+      top: 50px; 
+      /* display: none; */
    }
 
 }
